@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a mini-project for my college <br>which is based on JAVA and comprises of HTML, CSS for frontend<br><br>👯 I’m looking to collaborate on any Robotics projects and <br>personal coding projects<br><br>🤝 I’m looking for help with learning domains like ML, AWS and<br>Cloud Computing in depth<br><br>🌱 I’m currently learning AWS, REACT, NodeJS and ROS.<br><br>💬 Ask me about my robotic projects and gaming interests and<br>also how to make good tea|  ; )<br> <br>FEEL FREE TO CONTACT ME!
+🔭 I code.
 
 
 ## 🌐 Socials:
